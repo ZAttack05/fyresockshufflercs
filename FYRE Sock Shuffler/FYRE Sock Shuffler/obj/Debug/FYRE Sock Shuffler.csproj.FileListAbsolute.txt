@@ -1,0 +1,11 @@
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\bin\Debug\FYRE Sock Shuffler.exe.config
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\bin\Debug\FYRE Sock Shuffler.exe
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\bin\Debug\FYRE Sock Shuffler.pdb
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE Sock Shuffler.csproj.AssemblyReference.cache
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE Sock Shuffler.csproj.SuggestedBindingRedirects.cache
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE_Sock_Shuffler.Form1.resources
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE_Sock_Shuffler.Properties.Resources.resources
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE Sock Shuffler.csproj.GenerateResource.cache
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE Sock Shuffler.csproj.CoreCompileInputs.cache
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE Sock Shuffler.exe
+C:\Users\zach\iCloudDrive\Learning C Sharp\FYRE Sock Shuffler\FYRE Sock Shuffler\obj\Debug\FYRE Sock Shuffler.pdb
